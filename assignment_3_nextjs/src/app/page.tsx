@@ -8,7 +8,7 @@ const backgroundImageStyle = {
     "url(https://cdn.pixabay.com/photo/2024/05/16/20/21/digital-8766933_1280.png)",
   backgroundSize: "cover",
   backgroundPosition: "center",
-  height: "35vh",
+  height: "30vh",
   margin: 0,
   padding: 0,
 };
