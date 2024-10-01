@@ -8,7 +8,6 @@ export default function Footer() {
         <div className="mb-4 md:mb-0">
           <h2 className="text-2xl font-bold">My Website</h2>
           <p className="text-gray-400 mt-2">
-            Footer is a valuable resource that complements the main content of the website by providing quick links, legal information, and ways to connect.
           </p>
         </div>
         <div className="flex space-x-4">
@@ -25,7 +24,7 @@ export default function Footer() {
           <li><Link href="/pages/contact">Contact Us</Link></li>
         </ul>
         <p className="text-center text-gray-400 mt-4 md:mt-0">
-          © 2024 All rights reserved by your website.
+          © Muhammad Asif.
         </p>
       </div>
     </footer>
