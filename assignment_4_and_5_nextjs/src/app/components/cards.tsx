@@ -12,7 +12,7 @@ export default function Cards() {
   return (
     <main>
       {/* main wraper div */}
-      <div className="sm:grid sm:grid-cols-2 md:grid-cols-3 px-6 sm:px-12 ">
+      <div className="sm:grid sm:grid-cols-2 lg:grid-cols-3 px-6 sm:px-12 ">
         {/* card 1*/}
 
         <Link href={"./pages/blog_pages/blog_1"}>
