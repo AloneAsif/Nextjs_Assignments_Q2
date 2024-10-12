@@ -12,7 +12,7 @@ export default function Cards() {
   return (
     <main>
       {/* main wraper div */}
-      <div className="sm:grid sm:grid-cols-2 md:grid-cols-3 px-6 sm:px-12">
+      <div className="sm:grid sm:grid-cols-2 md:grid-cols-3 px-6 sm:px-12 ">
         {/* card 1*/}
 
         <Link href={"./pages/blog_pages/blog_1"}>
@@ -42,7 +42,7 @@ export default function Cards() {
               transition={{ ease: "easeInOut", delay: 1.5, duration: 1.5 }}
               className="space-y-2 mb-3 px-4 md:px-8"
             >
-              <h1 className="text-4xl font-bold text-sky-500">
+              <h1 className="text-2xl md:text-3xl  font-bold text-sky-500">
                 Necklace/Earrings
               </h1>
               <p>
@@ -85,7 +85,7 @@ export default function Cards() {
               transition={{ ease: "easeInOut", delay: 1.5, duration: 1.5 }}
               className="space-y-2 mb-3 px-4 md:px-8"
             >
-              <h1 className="text-4xl font-bold text-sky-500">
+              <h1 className="text-2xl md:text-3xl font-bold text-sky-500">
                 Women Necklace Earrings
               </h1>
               <p>
@@ -128,7 +128,7 @@ export default function Cards() {
               transition={{ ease: "easeInOut", delay: 1.5, duration: 1.5 }}
               className="space-y-2 mb-3 px-4 md:px-8"
             >
-              <h1 className="text-4xl font-bold text-sky-500">
+              <h1 className="text-2xl md:text-3xl font-bold text-sky-500">
                 Twist Pendant Necklace
               </h1>
               <p>
@@ -171,7 +171,7 @@ export default function Cards() {
               transition={{ duration: 0.5 }}
               className="space-y-2 mb-3 px-4 md:px-8"
             >
-              <h1 className="text-4xl font-bold text-sky-500">
+              <h1 className="text-2xl md:text-3xl font-bold text-sky-500">
                 Jewellery Set Ring
               </h1>
               <p>
@@ -213,7 +213,7 @@ export default function Cards() {
               transition={{ duration: 0.5 }}
               className="space-y-2 mb-3 px-4 md:px-8"
             >
-              <h1 className="text-4xl font-bold text-sky-500">
+              <h1 className="text-2xl md:text-3xl font-bold text-sky-500">
               Jewels Gold Plated
               </h1>
               <p>
@@ -254,7 +254,7 @@ export default function Cards() {
               transition={{ duration: 0.5 }}
               className="space-y-2 mb-3 px-4 md:px-8"
             >
-              <h1 className="text-4xl font-bold text-sky-500">
+              <h1 className="text-2xl md:text-3xl font-bold text-sky-500">
               Woman Necklace Earrings
               </h1>
               <p>
